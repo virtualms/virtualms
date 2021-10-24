@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vincenzo, aka @virtualms
 - 👀 I’m interested in Machine Learning, Deep Learning, Reinforcement Learning and AI Explainability
-- 🌱 I’m currently a MSc Computer Engineering student at the University of Bologna
+- 🌱 I’m currently a MSc Computer Engineering student at the University of Bologna and Data Scientist intern at CRIF
 - 📫 How to reach me: v.m.stanzione@gmail.com
 
 <!---
